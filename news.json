@@ -1,0 +1,330 @@
+{
+  "_type": "News",
+  "webSearchUrl": "https://www.bing.com/news/search?q=top+stories&form=TNSA02",
+  "value": [
+    {
+      "_type": "NewsArticle",
+      "name": "Non-oil domestic exports fall 8.3% YoY in March",
+      "url": "https://www.msn.com/en-sg/news/other/non-oil-domestic-exports-fall-83-yoy-in-march/ar-AA19VZ0b",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.Y_BCSU410I69iioiV9iLDy&pid=News",
+          "width": 800,
+          "height": 533
+        },
+        "isLicensed": true
+      },
+      "description": "                                    A 14.1% drop in exports to China drove the overall decline. Non-oil domestic exports (NODX) declined further in March, falling 8.3%. Based on Enterprise",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Singapore Business Review",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https://www.bing.com/th?id=ODF.MuTw9N1mK8v-1J4O4n4Kog&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2023-04-17T02:03:37.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Almost half of Taiwan's aircraft isn't ready for war, and its air force doesn't have a coordinated radio network to stave off a Chinese invasion: Pentagon leak",
+      "url": "https://www.msn.com/en-sg/news/world/almost-half-of-taiwans-aircraft-isnt-ready-for-war-and-its-air-force-doesnt-have-a-coordinated-radio-network-to-stave-off-a-chinese-invasion-pentagon-leak/ar-AA19WPL4",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.9R6RFHcBVihwnb_bUOuKci&pid=News",
+          "width": 3221,
+          "height": 2416
+        },
+        "isLicensed": true
+      },
+      "description": " China is likely to swiftly gain air superiority in Taiwan if it goes to war, per Pentagon leaks. Pentagon assessments seen by The Washington Post present a bleak outlook for Taiwan's air force. The",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Insider Asia",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https://www.bing.com/th?id=ODF.q-ZVWyz-qFnnPRsNgOLlfQ&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2023-04-17T05:40:54.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Successful Korean stars who are making waves in Hollywood",
+      "url": "https://www.msn.com/en-sg/news/other/successful-korean-stars-who-are-making-waves-in-hollywood/ar-AA19WF9O",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.LnO7ThmYViSOpK8d6cuWSy&pid=News",
+          "width": 800,
+          "height": 800
+        },
+        "isLicensed": true
+      },
+      "description": "The Korean entertainment industry is on a glorious run, churning out excellent content to draw the masses. Korean actors have proved their mettle in every genre, be it with K-dramas like Squid Game",
+      "provider": [{ "_type": "Organization", "name": "PrestigeOnline" }],
+      "datePublished": "2023-04-17T04:00:17.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Six sent to hospital after lorry carrying migrant workers mounts kerb and knocks down lamppost",
+      "url": "https://www.msn.com/en-sg/news/other/six-sent-to-hospital-after-lorry-carrying-migrant-workers-mounts-kerb-and-knocks-down-lamppost/ar-AA19VefI",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.rrQ82Wj8_cuU8Lh-qpz63i&pid=News",
+          "width": 1024,
+          "height": 578
+        },
+        "isLicensed": true
+      },
+      "description": "SINGAPORE: Six individuals have been conveyed to the hospital after a lorry carrying a number of migrant workers mounted a kerb and knocked down a street lamppost as it drove along the grass patch",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Independent SG",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https://www.bing.com/th?id=ODF.SaoJThlSokgjPRVnKYxNcA&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2023-04-16T10:30:45.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Everything we know about House of the Dragon Season 2 so far",
+      "url": "https://www.msn.com/en-sg/news/other/everything-we-know-about-house-of-the-dragon-season-2-so-far/ar-AA19WlrM",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.MVe9WRA-Cj8i-SX0KBg2yC&pid=News",
+          "width": 800,
+          "height": 800
+        },
+        "isLicensed": true
+      },
+      "description": "Game of Thrones became a phenomenon so big that the makers of the show decided to extend the legacy and create a prequel of the fantasy drama. This gave birth to the series titled House of the Dragon",
+      "provider": [{ "_type": "Organization", "name": "PrestigeOnline" }],
+      "datePublished": "2023-04-17T02:00:53.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Slow, not fast, food: Schoolgirl orders from McDonald’s at 12:30pm, doesn’t get it till 1:55pm",
+      "url": "https://www.msn.com/en-sg/news/other/slow-not-fast-food-schoolgirl-orders-from-mcdonald-s-at-1230pm-doesn-t-get-it-till-155pm/ar-AA19VhBG",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=ORMS.b773d9a4113f1a44ca6c5662915c9a1d&pid=Wdp",
+          "width": 1024,
+          "height": 677
+        },
+        "isLicensed": true
+      },
+      "description": "SINGAPORE: When you order food from a fast food restaurant, it’s reasonable to expect that it will be served quickly. It’s unsurprising, therefore, that one mum took to social media after it took her",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Independent SG",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https://www.bing.com/th?id=ODF.SaoJThlSokgjPRVnKYxNcA&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2023-04-16T10:00:51.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "‘Used 120 tonnes of water in 5 days’: Chinese couple take revenge on Airbnb host in South Korea who refused to cancel booking by leaving taps, lights and gas on",
+      "url": "https://www.msn.com/en-sg/news/other/used-120-tonnes-of-water-in-5-days-chinese-couple-take-revenge-on-airbnb-host-in-south-korea-who-refused-to-cancel-booking-by-leaving-taps-lights-and-gas-on/ar-AA19WL79",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.SZ4yUbZV8nwUewKKt1WUPy&pid=News",
+          "width": 1999,
+          "height": 1167
+        },
+        "isLicensed": true
+      },
+      "description": " A Chinese couple angered by an Airbnb host's refusal to cancel booking wasted water, electricity and gas costing more than US$1,570 The host says Airbnb refused to help resolve the case and after",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "South China Morning Post",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https://www.bing.com/th?id=ODF.U1dT5-aAjlpGBBrm2ReeYg&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2023-04-17T06:00:08.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Parti Liyani says Karl Liew never apologised as ex-CAG chairman’s son gets 2 weeks jail",
+      "url": "https://www.msn.com/en-sg/news/other/parti-liyani-says-karl-liew-never-apologised-as-ex-cag-chairman-s-son-gets-2-weeks-jail/ar-AA19Vmwg",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.PKqAFNZNjdiuxrGftEWQHi&pid=News",
+          "width": 1024,
+          "height": 682
+        },
+        "isLicensed": true
+      },
+      "description": "SINGAPORE: In a statement that she made public yesterday (Apr 14), former domestic helper Parti Liyani said that ex-Changi Airport Group (CAG) chairman Liew Mun Leong’s family didn’t show remorse or",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Independent SG",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https://www.bing.com/th?id=ODF.SaoJThlSokgjPRVnKYxNcA&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2023-04-16T09:00:34.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Mercury retrograde 2023: Dates and how it affects all the zodiac signs",
+      "url": "https://www.msn.com/en-sg/news/other/mercury-retrograde-2023-dates-and-how-it-affects-all-the-zodiac-signs/ar-AA19WdFt",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.XyAYMQKShf6Ky7g8DoAsWy&pid=News",
+          "width": 800,
+          "height": 800
+        },
+        "isLicensed": true
+      },
+      "description": "From ancient Roman literature to Western and Vedic astrology, Mercury has been depicted as the planet of communication across centuries. The planet denotes intellect and the desire to travel, and",
+      "provider": [{ "_type": "Organization", "name": "PrestigeOnline" }],
+      "datePublished": "2023-04-17T00:00:46.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "“Neighbour from hell” has been smoking at resident’s front door for past 2 years despite NEA warning",
+      "url": "https://www.msn.com/en-sg/news/other/neighbour-from-hell-has-been-smoking-at-resident-s-front-door-for-past-2-years-despite-nea-warning/ar-AA19WSBX",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=ORMS.e45dc6866fe912c54e8cc21d70058d3a&pid=Wdp",
+          "width": 1024,
+          "height": 562
+        },
+        "isLicensed": true
+      },
+      "description": "SINGAPORE: An angered resident from Punggol took to Facebook to express her frustration about her neighbour, who has been smoking outside her flat for the past two years. Fang Fang, a resident of",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Independent SG",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https://www.bing.com/th?id=ODF.SaoJThlSokgjPRVnKYxNcA&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2023-04-17T06:00:06.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Has MAS' tightening cycle finally come to an end?",
+      "url": "https://www.msn.com/en-sg/news/other/has-mas-tightening-cycle-finally-come-to-an-end/ar-AA19Wrwa",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.RP4Ho9Tyf1EQMNkGNxUjzC&pid=News",
+          "width": 800,
+          "height": 289
+        },
+        "isLicensed": true
+      },
+      "description": "                                    The central bank kept its policy unchanged in April, for the first time since October 2021. It is unlikely for the Monetary Authority of Singapore (MAS) to tweak",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Singapore Business Review",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https://www.bing.com/th?id=ODF.MuTw9N1mK8v-1J4O4n4Kog&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2023-04-17T04:22:52.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Woman alarmed after finding staple wire inside prawn roll she bought from Sheng Siong",
+      "url": "https://www.msn.com/en-sg/news/other/woman-alarmed-after-finding-staple-wire-inside-prawn-roll-she-bought-from-sheng-siong/ar-AA19WDIb",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=ORMS.de752bce9bdac0743cc621484d4e77a7&pid=Wdp",
+          "width": 958,
+          "height": 852
+        },
+        "isLicensed": true
+      },
+      "description": "SINGAPORE: A woman, concerned after finding a piece of wire in the prawn roll she bought, took to social media. She also posted photos of her unfortunate discovery, which could have caused injuries",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Independent SG",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https://www.bing.com/th?id=ODF.SaoJThlSokgjPRVnKYxNcA&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2023-04-17T05:00:39.0000000Z"
+    }
+  ]
+}

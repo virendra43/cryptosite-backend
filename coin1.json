@@ -1,0 +1,14 @@
+{
+  "entries": [
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price": 46880.12
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price": 2953.74
+    }
+  ]
+}
